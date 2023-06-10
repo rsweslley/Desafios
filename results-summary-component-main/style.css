@@ -8,6 +8,9 @@
 
 body {
     margin: 0px;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
 }
 
 main {
